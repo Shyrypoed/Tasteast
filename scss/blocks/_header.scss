@@ -1,0 +1,46 @@
+.header {
+    &__info {
+        padding: 50px 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__number {
+        padding: 20px 57px;
+        border: 2px solid rgb(225, 177, 104);
+        cursor: pointer;
+    }
+
+    &__button {
+        padding: 20px 85px;
+        background: rgb(225, 177, 104);
+        color: rgb(41, 46, 54);
+        font-size: rem(22);
+        cursor: pointer;
+    }
+
+    &__base {
+        border-top: 2px solid rgb(92, 97, 104);
+        padding: 26px 0;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__list {
+        display: flex;
+        justify-content: space-between;
+        gap: 60px;
+    }
+}
+
+.networks {
+
+    &__list {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        cursor: pointer;
+    }
+}
+

@@ -1,0 +1,61 @@
+.clients {
+    padding: 141px 0px;
+
+    &__base {
+        margin-bottom: 80px;
+    }
+
+    &__name {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        border-top: 3px solid #E1B168;
+        border-bottom: 3px solid #E1B168;
+        padding-top: 4px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    &__comments {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+.comment {
+
+    &__base {
+        width: 544px;
+        padding: 10px 40px;
+        background: #343942;
+    }
+
+    &__about {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        margin-bottom: 30px;
+    }
+
+    &__name {
+        font-size: rem(20);
+        line-height: prc(30, 20);
+    }
+
+    &__city {
+        color: #E1B168;
+    }
+
+    &__str {
+        border-bottom: 2px solid rgb(121, 126, 137);
+        width: 464px;
+        margin-bottom: 32px;
+    }
+}

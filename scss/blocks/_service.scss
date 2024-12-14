@@ -1,0 +1,52 @@
+.service {
+    padding: 140px 0;
+
+    &__container {
+        display: flex;
+    }
+
+    &__texts {
+        padding-right: 90px;
+    }
+
+    &__name {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        border-top: 3px solid #E1B168;
+        border-bottom: 3px solid #E1B168;
+        padding-top: 4px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    &__subtitle {
+        max-width: 438px;
+    }
+
+    &__info {
+        display: flex;
+        gap: 30px;
+    }
+
+    &__base {
+        border: 20px solid #323841;
+        width: 254px;
+        height: 235px;
+        text-align: center;
+        padding: 35px 67px;
+    }
+    
+    &__icon {
+        margin-bottom: 15px;
+    }
+
+}
+

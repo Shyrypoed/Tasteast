@@ -1,0 +1,92 @@
+.blog {
+    text-align: center;
+    background: rgb(255, 248, 245);
+    color: #292E36;
+    padding: 140px 0;
+
+    &__name {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        border-top: 3px solid #E1B168;
+        border-bottom: 3px solid #E1B168;
+        padding-top: 4px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    &__subtitle {
+        margin: 0 auto;
+        max-width: 812px;
+        margin-bottom: 40px;
+        color: #555555;
+        max-width: 491px;
+    }
+
+    &__about {
+        display: flex;
+        gap: 50px;
+    }
+
+    &__block {
+        border: 1px solid #C4C4C4;
+    }
+}
+
+.news {
+    position: relative;
+    text-align: left;
+    width: 642px;
+
+    &__tags {
+        display: flex;
+        gap: 30px;
+        margin-bottom: 26px;
+        justify-content: space-between;
+    }
+
+    &__tag {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        border-top: 3px solid #E1B168;
+        border-bottom: 3px solid #E1B168;
+        padding-top: 4px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        text-transform: capitalize;
+        font-weight: 400;
+        margin-bottom: 24px;
+    }
+
+    &__subtitle {
+        color: #555555;
+    }
+
+    &__button {
+        position: absolute;
+        padding: 20px 57px;
+        display: inline-block;
+        background: #E1B168;
+        color: #292E36;
+        cursor: pointer;
+        top: 0;
+        left: 35%;
+        top: 130px;
+    }
+    
+    &__about {
+        padding: 50px 51px;
+    }
+}

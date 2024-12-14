@@ -1,0 +1,18 @@
+<svg width="83.000000" height="83.000000" viewBox="0 0 83 83" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_129">
+			<rect id="IMAGE" rx="0.000000" width="38.000000" height="38.000000" transform="translate(22.500000 22.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<pattern id="pattern_2_1300" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image2_130_0" transform="matrix(0.010417,0,0,0.010417,0,0)"/>
+		</pattern>
+		<image id="image2_130_0" width="96.000000" height="96.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABHNCSVQICAgIfAhkiAAABElJREFUeJztnU2LHFUUht+3qnoU9DdoNtlkwB+hjiYRTWYjmoAujAt1oYKIGEP8jEiIGwkEzcKvBDO4FUOy8x+oQ9z6CxSEkIx9674upntInJ6purfu9K10nQd6d8+p2+fpUx99m76AYRiGYRiGYRhDg10TSBvL8MUJsFgBtA/AA92n1WtuAvwT8tdQVBdJ3uiSLFqApCX4+hyIVwCUXSZxD1NDOo+ieovkOCZBlABJS1D9E4DHY+IXkOtg+VSMhCLqcL4+Byv+nazAu7MxgcEdIG0sQ+WvGO5pZyccWD5C8o+QoPAO8MXLsOLPooJ3J0KDwgUQK8ExQ4HFE6EhEdcAPhQeMxT0cGhE+DXAO+2asKg6P1v0mdTvP+4uyEiGCciMCciMCciMCciMCciMCchMNe8Ddr2PborvyryfY6wDMmMCMmMCMmMCMmMCMmMCMmMCMjP354Cu99mLtt5gHZAZE5AZE5AZE5AZE5AZE5AZE5AZWw8IPH5qrAMyYwIyYwIyYwIyYwIyYwIyYwIyY+sBmbEOyIwJCKdOmcwEhEIcA+BSpTMBgZDVGojjSCTBBESQUoIJiCR1J7RG3mm311wn0wMk96y8G8e+/4VbD0i0nlCDeJGsLjUNJKs1yQHCJUTU005BsykhfCO5420Gdzkdzb0D7iFKCF9LbkxWa02DJ50wCj3I3P+qoO/xM6hBvEBWlwPjWmGnoGZKCN9K7theJDcB7ZhKeD51YhPQnhLCd6klmIAwphKeS5XQ1gPCKSF8LzmQ1Q9dkw2xA24lyDG9Jqx2TTQ8AdRBADcTZBpBuNJVwuAEkKNfQB1GWglHYxMMTgCwJWEVaU5HIwhrsRIGKQAAyNF1UEeQWcJgBQD9kDBoAcCeSLgiuSNtAwYvANiScBTA7QTpliad0EqCCZhAjq5NLsxpJPh2/y5vAu6AHF2dnI66SRAuoihfTzOr/+cewJqwNH5S3t1qeq8zX7X7StLefbCHIAAAJHdY3t0OLP4FSTO/q5K0P83EBiIACOyEXT75Uv22vNsIuTvaeVIDEgAA0vhgo4Tm4k/HdpcwNAFAg4T2xU8jQd79E3Vx6uNL9clOEmr3ZWDxt0mI+FVEvQ5oOTSut5DvkOVnbYZK7mkIP2LzYesCivJVktu6Xqrfg/RRQ7p/QR0KF1CPPwf5ZmhcryHfJctP2wyV3DPwegxF9UaH4k8PvB6xjZUOQPVvWLSdlMiTZHmmS4qw4gMA/g5+YCB5A9L50LjeI30Sck3YHh5cfEC4HLuV4WiyleHibWlFniLLj0NCoooP/AyWq1028xzBu7MgX8Oi/caUPE2WH7YZKmk/VK8DWAo4wmbxyY0E29nqALx7aXMTM+0D8GDXnL2AfJ8sP2gz9K67o2a2it9tgsZdSO5Qi68trkq6P/dcF5YGCVb8ebCDBCv+PJHGj8rXv8u7v1S7LyTdl3tOhmEYRv/4D/c83VP/t/k2AAAAAElFTkSuQmCC"/>
+	</defs>
+	<rect id="Rectangle" rx="41.500000" width="83.000000" height="83.000000" fill="#292E36" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip2_129)">
+		<path id="Vector" d="M22.12 22.12L60.87 22.12L60.87 60.87L22.12 60.87L22.12 22.12Z" fill="url(#pattern_2_1300)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

@@ -1,0 +1,49 @@
+.story {
+    padding: 125px 0;
+    background: rgb(255, 248, 245);
+
+    &__cotainer {
+        color: #292E36;
+        display: flex;
+        gap: 45px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 15px;
+        font-weight: 400;
+    }
+
+    &__subtitle {
+        margin-bottom: 25px;
+        color: #555555;
+    }
+
+    &__dates {
+        display: flex;
+    }
+
+    &__block {
+        margin-bottom: 20px;
+    }
+
+    &__number {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 15px;
+    }
+
+    &__about {
+        color: #555555;
+    }
+
+    &__creator {
+        font-size: rem(20);
+        line-height: prc(30, 30);
+        margin-bottom: 20px;
+        color: #555555;
+    }
+}

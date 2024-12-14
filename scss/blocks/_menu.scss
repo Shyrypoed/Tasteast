@@ -1,0 +1,92 @@
+.menu {
+    padding: 141px 0;
+    background: rgb(255, 248, 245);
+    color: #292E36;
+
+    &__container {
+        display: flex;
+    }
+
+    &__info {
+        margin-right: 55px;
+    }
+
+    &__name {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        border-top: 3px solid #E1B168;
+        border-bottom: 3px solid #E1B168;
+        padding-top: 4px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    &__subtitle {
+        max-width: 486px;
+        margin-bottom: 45px;
+        color: #555555;
+    }
+
+    &__image {
+        margin-bottom: 60px;
+    }
+
+    &__button {
+        display: inline-block;
+        font-size: rem(22);
+        font-weight: 400;
+        line-height: prc(33, 22);
+        color: #E1B168;
+        border: 2px solid rgb(225, 177, 104);
+        padding: 20px 57px;
+    }
+}
+
+.list {
+    width: 689px;
+
+    &__name {
+        font-family: "Cormorant Infant";
+        font-size: rem(36);
+        line-height: prc(50, 36);
+        margin-bottom: 50px;
+    }
+    
+    &__column {
+        margin-bottom: 50px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(30);
+        line-height: prc(42, 30);
+        width: 350px;
+    }
+
+    &__more {
+        display: flex;
+    }
+
+    &__subtitle {
+        color: rgb(85, 85, 85);
+        font-size: rem(20);
+        line-height: prc(30, 20);
+        width: 400px;
+    }
+
+    &__str {
+        border-bottom: 2px solid rgb(170, 170, 170);
+        width: 100%;
+    }
+}

@@ -1,0 +1,39 @@
+.offer {
+    text-align: center;
+    padding-bottom: 125px;
+    background: rgb(255, 248, 245);
+    color: #292E36;
+
+    &_bg {
+        margin-bottom: 145px;
+    }
+
+    &__name {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        border-top: 3px solid #E1B168;
+        border-bottom: 3px solid #E1B168;
+        padding-top: 4px;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(40);
+        line-height: prc(56, 40);
+        margin-bottom: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    &__subtitle {
+        margin: 0 auto;
+        max-width: 812px;
+        margin-bottom: 40px;
+    }
+
+    &__images {
+        display: flex;
+        justify-content: space-around;
+    }
+}

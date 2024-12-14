@@ -1,0 +1,30 @@
+.home {
+    padding-top: 20px;
+    
+    &__container {
+        display: flex;
+        align-items: center;
+    }
+
+    &__title {
+        font-family: "Cormorant Infant";
+        font-size: rem(100);
+        line-height: 110px;
+        margin-bottom: 26px;
+    }
+
+    &__subtitle {
+        font-size: rem(20);
+        line-height: 30px;
+        max-width: 616px;
+        margin-bottom: 35px;
+    }
+
+    &__button {
+        display: inline-block;
+        color: rgb(225, 177, 104);
+        padding: 20px 57px;
+        border: 2px solid rgb(225, 177, 104);
+        cursor: pointer;
+    }
+}

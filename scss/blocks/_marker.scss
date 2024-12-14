@@ -1,0 +1,29 @@
+.marker {
+    padding-top: 100px;
+    background: rgb(255, 248, 245);
+
+	&__container {
+            display: flex;
+            gap: 75px;
+	}
+
+	&__base {
+            display: flex;
+            gap: 20px;
+	}
+      
+	&__title {
+            font-family: "Cormorant Infant";
+            font-size: rem(30);
+            line-height: 39px;
+            color: #292E36;
+            margin-bottom: 5px;
+	}
+
+	&__subtitle {
+            font-size: rem(20);
+            line-height: 30px;
+            color: #555555;
+	}
+}
+
